@@ -1,6 +1,6 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/MHW17/ManyWorlds
 branches:
-- patch-1
+- master
 projects:
   ManyWorlds:
     path: ""
